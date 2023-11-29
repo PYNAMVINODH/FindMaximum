@@ -64,6 +64,7 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
+![image](https://github.com/PYNAMVINODH/FindMaximum/assets/145742678/37ac9e10-d425-43f2-b872-574d23646278)
 
 
 ## Output:
