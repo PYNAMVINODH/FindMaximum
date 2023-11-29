@@ -64,6 +64,10 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
+
+
+## Output:
+
 i) # To find the maximum of marks using the list method sort.
 ![image](https://github.com/PYNAMVINODH/FindMaximum/assets/145742678/f25c00a0-f981-4902-a43b-54369799a3d8)
 ii) # To find the maximum marks using the list method max().
@@ -71,8 +75,6 @@ ii) # To find the maximum marks using the list method max().
 iii) # To find the maximum marks without using builtin functions.
 ![image](https://github.com/PYNAMVINODH/FindMaximum/assets/145742678/ed1fda41-f60e-46a6-b3f8-32ef6157e7f4)
 
-
-## Output:
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
