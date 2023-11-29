@@ -64,8 +64,11 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
- ![image](https://github.com/PYNAMVINODH/FindMaximum/assets/145742678/f25c00a0-f981-4902-a43b-54369799a3d8)
+i) # To find the maximum of marks using the list method sort.
+![image](https://github.com/PYNAMVINODH/FindMaximum/assets/145742678/f25c00a0-f981-4902-a43b-54369799a3d8)
+ii) # To find the maximum marks using the list method max().
 ![image](https://github.com/PYNAMVINODH/FindMaximum/assets/145742678/f972fa03-adac-474b-88a9-ca78becc3eba)
+iii) # To find the maximum marks without using builtin functions.
 ![image](https://github.com/PYNAMVINODH/FindMaximum/assets/145742678/ed1fda41-f60e-46a6-b3f8-32ef6157e7f4)
 
 
